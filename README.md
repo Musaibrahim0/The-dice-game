@@ -1,6 +1,6 @@
 # The-dice-game
 
-the dice game which is made using raw 
-html javascript and css adding it's using some javascript functionalities 
-mainly there are 2 two players who can play the game who ever gets the big number is the 
+The dice game, which is made using raw 
+HTML, JavaScript, and CSS, it uses some JavaScript functionalities 
+mainly 2 two players can play the game, whoever gets the big number is the 
 winner.
